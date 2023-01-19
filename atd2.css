@@ -1,0 +1,33 @@
+h1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+    background-color: black;
+}
+h4{
+    color: black;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+}
+.conteiner div{
+    background-color: aqua;
+    margin: 20px;
+
+}
+.ft div{
+ background-color: aqua;
+ margin: 20px;
+ 
+}
+.ft{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: black;
+}
